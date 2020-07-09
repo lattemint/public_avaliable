@@ -16,6 +16,7 @@
  -Show the directory address on the credit list. 
  
 ( in case you do, I will appreciated :) )
+
  -Ask me for permission to use it. 
  
  -Ask me for permission to modify it. 
