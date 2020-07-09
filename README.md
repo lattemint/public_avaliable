@@ -29,7 +29,7 @@
 ### Well, I got no idea why is shouldn't be okay:
 ###  Since they possiblely modified it as well.
 ### It is okay if you trying to just sell them,
-### and I couldn't stop this, also I can't do anything about this *shrink*
+### and I couldn't stop this, also I can't do anything about this * *shrink* *
 ## But remember, those are free stuff, and it is always there, you just made a bad prank on others, and I have no idea what will happend next.
 
 -End of text log-
