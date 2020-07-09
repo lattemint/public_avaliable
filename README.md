@@ -1,2 +1,29 @@
 # public_avaliable
-Something could be shared, used, without limit
+## Something could be shared, used, without limit
+---
+### This is Neko, and I'm here to welcome you. 
+### This is a responsitory I created for anyone who want something free.
+### And most of the things inside is created by me, 
+### and yes **you can toy withit, modified them, polish(verb) them, fuse them with your need**. 
+### It is free for participated in any project, or you just need something to start with.
+---
+## The directory include:
+ -MagicaVoxel Model
+---
+## You **Don't** need to:
+ -Show my name on your credit list. 
+ -Show the directory address on the credit list. 
+( in case you do, I will appreciated :) )
+ -Ask me for permission to use it. 
+ -Ask me for permission to modify it. 
+ -Promote this pit hole to others
+ 
+---
+## If someone retail/sell/pricing those stuff
+### Well, I got no idea why is shouldn't be okay:
+###  Since they possiblely modified it as well.
+### It is okay if you trying to just sell them originally:
+### I couldn't stop this, and I can't do anything about this
+## But remember, those are free stuff, and it is always there, you just made a bad prank on others, and I have no idea what will happend next.
+
+-End of text log-
