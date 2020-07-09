@@ -12,10 +12,14 @@
 ---
 ## You **Don't** need to:
  -Show my name on your credit list. 
+ 
  -Show the directory address on the credit list. 
+ 
 ( in case you do, I will appreciated :) )
  -Ask me for permission to use it. 
+ 
  -Ask me for permission to modify it. 
+ 
  -Promote this pit hole to others
 
 
