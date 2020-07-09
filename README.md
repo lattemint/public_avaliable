@@ -7,8 +7,8 @@
 ### and yes **you can toy withit, modified them, polish(verb) them, fuse them with your need**. 
 ### It is free for participated in any project, or you just need something to start with.
 ---
-## The directory include:
- -MagicaVoxel Model
+## The directory include
+    MagicaVoxel Model
 ---
 ## You **Don't** need to:
  -Show my name on your credit list. 
@@ -17,7 +17,8 @@
  -Ask me for permission to use it. 
  -Ask me for permission to modify it. 
  -Promote this pit hole to others
- 
+
+
 ---
 ## If someone retail/sell/pricing those stuff
 ### Well, I got no idea why is shouldn't be okay:
