@@ -1,7 +1,7 @@
 # public_avaliable
 ## Something could be shared, used, without limit
 ---
-### This is Neko, and I'm here to welcome you. 
+### This is Neko Soul, and I'm here to welcome you. 
 ### This is a responsitory I created for anyone who want something free.
 ### And most of the things inside is created by me, 
 ### and yes **you can toy withit, modified them, polish(verb) them, fuse them with your need**. 
