@@ -1,6 +1,13 @@
 # public_avaliable
 ## Something could be shared, used, without limit
 ---
+DISCLAIMER
+Some of the image in showcase folder will be rework since I use other's HDRI while rendering.
+Which I couldn't find out where it comes from (and yes I forgot which email I had optain them from)
+To make everything safe from copyright, I will replace them soon, and apologized from inconvinence
+Possible generating smaller thumbnail for better loading speed
+
+---
 ### This is Neko Soul, and I'm here to welcome you. 
 ### This is a responsitory I created for anyone who want something free.
 ### And most of the things inside is created by me, 
@@ -8,7 +15,9 @@
 ### It is free for participated in any project, or you just need something to start with.
 ---
 ## The directory include
-    MagicaVoxel Model
+    MagicaVoxel Model (MagicaVoxel is a application created by Ephtracy)
+    MagciaVoxel's Showcase
+    
 ---
 ## You **Don't** need to:
  -Show my name on your credit list. 
