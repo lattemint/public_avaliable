@@ -1,11 +1,6 @@
 # public_avaliable
 ## Something could be shared, used, without limit
 ---
-DISCLAIMER
-Some of the image in showcase folder will be rework since I use other's HDRI while rendering.
-Which I couldn't find out where it comes from (and yes I forgot which email I had optain them from)
-To make everything safe from copyright, I will replace them soon, and apologized from inconvinence
-Possible generating smaller thumbnail for better loading speed
 
 ---
 ### This is Neko Soul, and I'm here to welcome you. 
